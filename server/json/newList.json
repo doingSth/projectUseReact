@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "cityName": "北京楼",
+    "positionName": "HR业务1",
+    "buName": "企业系统1"
+  },
+  {
+    "id": 2,
+    "cityName": "北京2",
+    "positionName": "HR业务2",
+    "buName": "企业系统2"
+  },
+  {
+    "id": 3,
+    "cityName": "北京3",
+    "positionName": "HR业务3",
+    "buName": "企业系统3"
+  },
+  {
+    "id": 4,
+    "cityName": "北京4",
+    "positionName": "HR业务4",
+    "buName": "企业系统4"
+  },
+  {
+    "id": 5,
+    "cityName": "北京5",
+    "positionName": "HR业务5",
+    "buName": "企业系统5"
+  },
+  {
+    "id": 6,
+    "cityName": "北京6",
+    "positionName": "HR业务6",
+    "buName": "企业系统6"
+  },
+  {
+    "id": 7,
+    "cityName": "北京7",
+    "positionName": "HR业务7",
+    "buName": "企业系统7"
+  },
+  {
+    "id": 8,
+    "cityName": "北京8",
+    "positionName": "HR业务8",
+    "buName": "企业系统8"
+  },
+  {
+    "id": 9,
+    "cityName": "北京9",
+    "positionName": "HR业务9",
+    "buName": "企业系统9"
+  },
+  {
+    "id": 10,
+    "cityName": "北京10",
+    "positionName": "HR业务10",
+    "buName": "企业系统10"
+  },
+  {
+    "id": 11,
+    "cityName": "北京11",
+    "positionName": "HR业务11",
+    "buName": "企业系统11"
+  }
+]

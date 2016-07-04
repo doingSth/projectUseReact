@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "cityName": "上海1",
+    "positionName": "HR业务1",
+    "buName": "企业系统1"
+  },
+  {
+    "id": 2,
+    "cityName": "上海2",
+    "positionName": "HR业务2",
+    "buName": "企业系统2"
+  },
+  {
+    "id": 3,
+    "cityName": "上海3",
+    "positionName": "HR业务3",
+    "buName": "企业系统3"
+  },
+  {
+    "id": 4,
+    "cityName": "上海4",
+    "positionName": "HR业务4",
+    "buName": "企业系统4"
+  },
+  {
+    "id": 5,
+    "cityName": "上海5",
+    "positionName": "HR业务5",
+    "buName": "企业系统5"
+  },
+  {
+    "id": 6,
+    "cityName": "上海6",
+    "positionName": "HR业务6",
+    "buName": "企业系统6"
+  },
+  {
+    "id": 7,
+    "cityName": "上海7",
+    "positionName": "HR业务7",
+    "buName": "企业系统7"
+  },
+  {
+    "id": 8,
+    "cityName": "上海8",
+    "positionName": "HR业务8",
+    "buName": "企业系统8"
+  },
+  {
+    "id": 9,
+    "cityName": "上海9",
+    "positionName": "HR业务9",
+    "buName": "企业系统9"
+  },
+  {
+    "id": 10,
+    "cityName": "上海10",
+    "positionName": "HR业务10",
+    "buName": "企业系统10"
+  }
+]
